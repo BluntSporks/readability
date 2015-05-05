@@ -3,8 +3,8 @@ package read
 // Cli scores the Coleman-Liau Index.
 // See https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index.
 func Cli(text string) float64 {
-	letterCnt, digitCnt, punctCnt := CntChars(text)
-	charCnt := float64(letterCnt + digitCnt + punctCnt)
+	letterCnt, digitCnt, _ := CntChars(text)
+	charCnt := float64(letterCnt + digitCnt)
 	wordCnt := float64(CntWords(text))
 	sentCnt := float64(CntSents(text))
 
