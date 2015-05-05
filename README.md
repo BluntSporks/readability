@@ -1,8 +1,11 @@
 # readability
 Reusable Golang library to provide readability scores
 
-## Status
-Under development; not ready for use
+# Status
+Ready to use.
+
+However, this package has not been extensively tested. Results may differ in small amounts from official scoring of
+these measures and should not be taken as official.
 
 ## Scores
 You can learn about [readability tests](https://en.wikipedia.org/wiki/Readability_test) from Wikipedia.
@@ -32,8 +35,6 @@ The best results are yielded by using the formula s = round(float32(c)/3.0) wher
 is character count. The round function is better than the floor function or ceil function for this purpose. The formula
 is exactly correct 58% of the time, and is within +/-1 syllable of the correct count 98% of the time. On average, the
 positive and negative deviations should cancel each other out, at least in some formulas.
-
-The apostrophe s at the the of possessives is ignored because it does not increase syllable count in the general case.
 
 ## Short forms
 See [short-names](https://www.github.com/BluntSporks/short-names) for a list of abbreviations used.
