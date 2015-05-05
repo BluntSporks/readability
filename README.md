@@ -5,6 +5,8 @@ Reusable Golang library to provide readability scores
 Under development; not ready for use
 
 ## Scores
+You can learn about [readability tests](https://en.wikipedia.org/wiki/Readability_test) from Wikipedia.
+
 The scores are planned to be:
 * [Automated Readability Index](https://en.wikipedia.org/wiki/Automated_Readability_Index)
 * [Coleman-Liau index](https://en.wikipedia.org/w/index.php?title=Coleman-Liau_Index)
