@@ -37,7 +37,7 @@ is exactly correct 58% of the time, and is within +/-1 syllable of the correct c
 positive and negative deviations should cancel each other out, at least in some formulas.
 
 ## Performance
-Testing of this program shows that it takes an average of 73 seconds to process an ebook on my desktop machine on 409
+Testing of this program shows that it takes an average of 73 seconds to process one ebook on my desktop machine on 409
 ebooks, yielding 409 clusters of 5 grade levels each.
 
 Average grade level of each cluster ranged from a minimum of 5.24 to a maximum of 16.84. The average of the 409 average
@@ -65,5 +65,5 @@ follows:
 This output shows that the scores, even if not perfectly accurate, are still in close enough agreement to be of
 practical use.
 
-## Short forms
-See [short-names](https://www.github.com/BluntSporks/short-names) for a list of abbreviations used.
+## Programming notes
+See [abbreviation](https://www.github.com/BluntSporks/abbreviation) for a list of abbreviations used.
