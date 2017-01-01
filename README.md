@@ -14,7 +14,7 @@ The scores are:
 * [Automated Readability Index](https://en.wikipedia.org/wiki/Automated_Readability_Index)
 * [Coleman-Liau index](https://en.wikipedia.org/w/index.php?title=Coleman-Liau_Index)
 * [Flesh-Kincaid](https://en.wikipedia.org/w/index.php?title=Flesch-Kincaid)
-* [Flesch Reading-ease](https://en.wikipedia.org/wiki/Flesch–Kincaid_readability_tests#Flesch_reading_ease)
+* [Flesch reading-ease](https://en.wikipedia.org/wiki/Flesch–Kincaid_readability_tests#Flesch_reading_ease)
 * [Gunning fog index](https://en.wikipedia.org/wiki/Gunning_fog_index)
 * [SMOG](https://en.wikipedia.org/wiki/SMOG)
 
