@@ -1,6 +1,6 @@
 package read
 
-// Fre scores the Flesch Reading-Ease.
+// Fre scores the Flesch reading-ease.
 // See https://en.wikipedia.org/wiki/Flesch–Kincaid_readability_tests#Flesch_reading_ease.
 func Fre(text string) float64 {
 	sylCnt := float64(CntSyls(text))
