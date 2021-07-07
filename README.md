@@ -1,4 +1,7 @@
 # readability
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/BluntSporks/readability.svg)](https://pkg.go.dev/github.com/BluntSporks/readability)
+
 Reusable Golang library to provide readability scores
 
 # Status
