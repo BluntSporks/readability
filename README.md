@@ -1,6 +1,6 @@
 # readability
 
-[![GoDoc](https://godoc.org/github.com/BluntSporks/readability?status.svg)](https://godoc.org/github.com/BluntSporks/readability)
+[![Go Reference](https://pkg.go.dev/badge/github.com/BluntSporks/readability.svg)](https://pkg.go.dev/github.com/BluntSporks/readability)
 
 Reusable Golang library to provide readability scores
 
